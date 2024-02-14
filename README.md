@@ -94,6 +94,8 @@ A repository containing link/resources to small, basic as well as specific Andro
 
 * [Activity Life Cycle](https://blog.mindorks.com/android-activity-lifecycle)
 
+* [Activity LifeCycle with onNewIntent](https://krishnabhandare.wordpress.com/2020/03/29/android-activity-lifecycle/) 
+
 * [Fragment LifeCycle](https://blog.mindorks.com/android-fragments-and-its-lifecycle)
 
 * [Fragment Transition](https://androidlearnersite.wordpress.com/2017/02/27/fragment-lifecycle-during-fragment-transaction/)
